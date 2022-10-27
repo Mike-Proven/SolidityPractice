@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.8+commit.dddeac2f"
+		"version": "0.8.7+commit.e28d00a7"
 	},
 	"language": "Solidity",
 	"output": {
@@ -121,11 +121,11 @@
 	},
 	"sources": {
 		"SimpStor.sol": {
-			"keccak256": "0xca47ca5772656f3712f98221ccccdf5336eeb84821087bc38d0ecc231c386658",
+			"keccak256": "0x5833e355cdddab44da47c5912f61ac47ae925b4813a7c30f21a647a58954b0ff",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://09dd4dcff8b3a49fcae05a199fdd6d001d7079974cfc70b8579a2da095a31527",
-				"dweb:/ipfs/QmXAuHU35yFLK36tUQUnGGCVv7kCiPcMxCqdGQkBTgp66A"
+				"bzz-raw://46fbd083474a59a87e3ea967dde5d34e6a9dd519fc939b4b375b9bea1a0630f6",
+				"dweb:/ipfs/QmQDTXFhXBN7zgdbqWuEG66a8AQA5XrZAxghNwAQbUZDmx"
 			]
 		}
 	},
